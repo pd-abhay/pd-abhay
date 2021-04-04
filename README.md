@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pd-abhay
-- 👀 I’m interested in analyzing data using Python
-- 🌱 I’m currently learning data analytics skills
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in analyzing data using Python, Tableau, Power Bi and SQL.
+- 🌱 I’m currently learning Azure 
 - 📫 How to reach me - Ping me on Github
 
 <!---
